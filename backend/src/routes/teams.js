@@ -1,0 +1,13 @@
+import { Router } from 'express';
+import { auth } from '../middlewares/auth.js';
+import { listTeams, createTeam, updateTeam, deleteTeam, assignEmployee, unassignEmployee, teamMembers } from '../controllers/teamController.js';
+const router = Router();
+router.use(auth);
+router.get('/', listTeams);
+router.post('/', createTeam);
+router.put('/:id', updateTeam);
+router.delete('/:id', deleteTeam);
+router.get('/:teamId/members', teamMembers);
+router.post('/:teamId/assign', assignEmployee);
+router.post('/:teamId/unassign', unassignEmployee);
+export default router;
