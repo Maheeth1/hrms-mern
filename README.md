@@ -5,11 +5,11 @@ It allows organisations to manage employees, teams, assignments, and maintain a 
 
 ## 🚀 Features
 
-✅ Organisation registration & admin login
-✅ Secure authentication with JWT + bcrypt
-✅ CRUD operations for Employees and Teams
-✅ Many-to-many Employee ↔ Team assignment
-✅ Full audit logging for:
+- ✅ Organisation registration & admin login
+- ✅ Secure authentication with JWT + bcrypt
+- ✅ CRUD operations for Employees and Teams
+- ✅ Many-to-many Employee ↔ Team assignment
+- ✅ Full audit logging for:
 
 - User login / logout
 
