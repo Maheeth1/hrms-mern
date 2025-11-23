@@ -16,8 +16,8 @@ It allows organisations to manage employees, teams, assignments, and maintain a 
   - Employee & Team creation / updates / deletions
 
   - Employee ↔ Team assignment changes
-  ✅ Protected APIs with middleware
-  ✅ Responsive React UI styled with Tailwind CSS
+- ✅ Protected APIs with middleware
+- ✅ Responsive React UI styled with Tailwind CSS
 
 ## 🧱 Tech Stack
 | Layer          | Technology                      |
