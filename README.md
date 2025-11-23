@@ -57,7 +57,7 @@ human-resource-management-system-mern/
 ## ⚙️ Setup Instructions
 1️⃣ Clone the repository
 ```
-git clone https://github.com/<your-username>/human-resource-management-system-mern.git
+git clone https://github.com/Maheeth1/hrms-mern.git
 cd human-resource-management-system-mern
 ```
 2️⃣ Setup MongoDB Atlas
