@@ -11,11 +11,11 @@ It allows organisations to manage employees, teams, assignments, and maintain a 
 - ✅ Many-to-many Employee ↔ Team assignment
 - ✅ Full audit logging for:
 
-- User login / logout
+  - User login / logout
 
-- Employee & Team creation / updates / deletions
+  - Employee & Team creation / updates / deletions
 
-- Employee ↔ Team assignment changes
+  - Employee ↔ Team assignment changes
   ✅ Protected APIs with middleware
   ✅ Responsive React UI styled with Tailwind CSS
 
